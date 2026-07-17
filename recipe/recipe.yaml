@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   python_min: "3.11"
-  version: "26.7.1"
+  version: "26.7.2"
 
 package:
   name: scicat_widget
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/s/scicat_widget/scicat_widget-${{ version }}.tar.gz
-  sha256: a5c234167303acd6c889a6834e3b547eefdc677030b151ae065b29f2c90ae611
+  sha256: e38e451e9112e47afb4cb141ba4810803a4f372199bef11e39f556dcfd957e04
 
 build:
   number: 0
